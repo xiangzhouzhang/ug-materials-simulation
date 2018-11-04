@@ -1,0 +1,26 @@
+'@class': Structure
+'@module': pymatgen.core.structure
+charge: null
+lattice:
+  a: 4.2
+  alpha: 90.0
+  b: 4.2
+  beta: 90.0
+  c: 4.2
+  gamma: 90.0
+  matrix:
+  - [4.2, 0.0, 0.0]
+  - [0.0, 4.2, 0.0]
+  - [0.0, 0.0, 4.2]
+  volume: 74.08800000000001
+sites:
+- abc: [0.0, 0.0, 0.0]
+  label: Cs
+  species:
+  - {element: Cs, occu: 1}
+  xyz: [0.0, 0.0, 0.0]
+- abc: [0.5, 0.5, 0.5]
+  label: Cl
+  species:
+  - {element: Cl, occu: 1}
+  xyz: [2.1, 2.1, 2.1]

@@ -1,0 +1,164 @@
+### Navigation
+
+  * [index](genindex.html "General Index")
+  * [modules](py-modindex.html "Python Module Index") |
+  * [pymatgen 2018.10.18 documentation](index.html) »
+
+# pymatgen.analysis package¶
+
+## Subpackages¶
+
+  * [pymatgen.analysis.chemenv package](pymatgen.analysis.chemenv.html)
+    * [Subpackages](pymatgen.analysis.chemenv.html#subpackages)
+      * [pymatgen.analysis.chemenv.coordination_environments package](pymatgen.analysis.chemenv.coordination_environments.html)
+        * [Subpackages](pymatgen.analysis.chemenv.coordination_environments.html#subpackages)
+          * [pymatgen.analysis.chemenv.coordination_environments.coordination_geometries_files package](pymatgen.analysis.chemenv.coordination_environments.coordination_geometries_files.html)
+            * [Module contents](pymatgen.analysis.chemenv.coordination_environments.coordination_geometries_files.html#module-pymatgen.analysis.chemenv.coordination_environments.coordination_geometries_files)
+          * [pymatgen.analysis.chemenv.coordination_environments.strategy_files package](pymatgen.analysis.chemenv.coordination_environments.strategy_files.html)
+            * [Module contents](pymatgen.analysis.chemenv.coordination_environments.strategy_files.html#module-pymatgen.analysis.chemenv.coordination_environments.strategy_files)
+        * [Submodules](pymatgen.analysis.chemenv.coordination_environments.html#submodules)
+          * [pymatgen.analysis.chemenv.coordination_environments.chemenv_strategies module](pymatgen.analysis.chemenv.coordination_environments.chemenv_strategies.html)
+          * [pymatgen.analysis.chemenv.coordination_environments.coordination_geometries module](pymatgen.analysis.chemenv.coordination_environments.coordination_geometries.html)
+          * [pymatgen.analysis.chemenv.coordination_environments.coordination_geometry_finder module](pymatgen.analysis.chemenv.coordination_environments.coordination_geometry_finder.html)
+          * [pymatgen.analysis.chemenv.coordination_environments.structure_environments module](pymatgen.analysis.chemenv.coordination_environments.structure_environments.html)
+          * [pymatgen.analysis.chemenv.coordination_environments.voronoi module](pymatgen.analysis.chemenv.coordination_environments.voronoi.html)
+        * [Module contents](pymatgen.analysis.chemenv.coordination_environments.html#module-pymatgen.analysis.chemenv.coordination_environments)
+      * [pymatgen.analysis.chemenv.utils package](pymatgen.analysis.chemenv.utils.html)
+        * [Subpackages](pymatgen.analysis.chemenv.utils.html#subpackages)
+        * [Submodules](pymatgen.analysis.chemenv.utils.html#submodules)
+          * [pymatgen.analysis.chemenv.utils.chemenv_config module](pymatgen.analysis.chemenv.utils.chemenv_config.html)
+          * [pymatgen.analysis.chemenv.utils.chemenv_errors module](pymatgen.analysis.chemenv.utils.chemenv_errors.html)
+          * [pymatgen.analysis.chemenv.utils.coordination_geometry_utils module](pymatgen.analysis.chemenv.utils.coordination_geometry_utils.html)
+          * [pymatgen.analysis.chemenv.utils.defs_utils module](pymatgen.analysis.chemenv.utils.defs_utils.html)
+          * [pymatgen.analysis.chemenv.utils.func_utils module](pymatgen.analysis.chemenv.utils.func_utils.html)
+          * [pymatgen.analysis.chemenv.utils.math_utils module](pymatgen.analysis.chemenv.utils.math_utils.html)
+          * [pymatgen.analysis.chemenv.utils.scripts_utils module](pymatgen.analysis.chemenv.utils.scripts_utils.html)
+        * [Module contents](pymatgen.analysis.chemenv.utils.html#module-pymatgen.analysis.chemenv.utils)
+    * [Module contents](pymatgen.analysis.chemenv.html#module-pymatgen.analysis.chemenv)
+  * [pymatgen.analysis.cost package](pymatgen.analysis.cost.html)
+    * [Subpackages](pymatgen.analysis.cost.html#subpackages)
+    * [Submodules](pymatgen.analysis.cost.html#submodules)
+      * [pymatgen.analysis.cost.cost module](pymatgen.analysis.cost.cost.html)
+    * [Module contents](pymatgen.analysis.cost.html#module-pymatgen.analysis.cost)
+  * [pymatgen.analysis.defects package](pymatgen.analysis.defects.html)
+    * [Subpackages](pymatgen.analysis.defects.html#subpackages)
+    * [Submodules](pymatgen.analysis.defects.html#submodules)
+      * [pymatgen.analysis.defects.core module](pymatgen.analysis.defects.core.html)
+      * [pymatgen.analysis.defects.corrections module](pymatgen.analysis.defects.corrections.html)
+      * [pymatgen.analysis.defects.defect_compatibility module](pymatgen.analysis.defects.defect_compatibility.html)
+      * [pymatgen.analysis.defects.dilute_solution_model module](pymatgen.analysis.defects.dilute_solution_model.html)
+      * [pymatgen.analysis.defects.generators module](pymatgen.analysis.defects.generators.html)
+      * [pymatgen.analysis.defects.thermodynamics module](pymatgen.analysis.defects.thermodynamics.html)
+      * [pymatgen.analysis.defects.utils module](pymatgen.analysis.defects.utils.html)
+    * [Module contents](pymatgen.analysis.defects.html#module-pymatgen.analysis.defects)
+  * [pymatgen.analysis.diffraction package](pymatgen.analysis.diffraction.html)
+    * [Subpackages](pymatgen.analysis.diffraction.html#subpackages)
+    * [Submodules](pymatgen.analysis.diffraction.html#submodules)
+      * [pymatgen.analysis.diffraction.core module](pymatgen.analysis.diffraction.core.html)
+      * [pymatgen.analysis.diffraction.neutron module](pymatgen.analysis.diffraction.neutron.html)
+      * [pymatgen.analysis.diffraction.xrd module](pymatgen.analysis.diffraction.xrd.html)
+    * [Module contents](pymatgen.analysis.diffraction.html#module-pymatgen.analysis.diffraction)
+  * [pymatgen.analysis.elasticity package](pymatgen.analysis.elasticity.html)
+    * [Submodules](pymatgen.analysis.elasticity.html#submodules)
+      * [pymatgen.analysis.elasticity.elastic module](pymatgen.analysis.elasticity.elastic.html)
+      * [pymatgen.analysis.elasticity.strain module](pymatgen.analysis.elasticity.strain.html)
+      * [pymatgen.analysis.elasticity.stress module](pymatgen.analysis.elasticity.stress.html)
+      * [pymatgen.analysis.elasticity.tensors module](pymatgen.analysis.elasticity.tensors.html)
+    * [Module contents](pymatgen.analysis.elasticity.html#module-pymatgen.analysis.elasticity)
+  * [pymatgen.analysis.ferroelectricity package](pymatgen.analysis.ferroelectricity.html)
+    * [Submodules](pymatgen.analysis.ferroelectricity.html#submodules)
+      * [pymatgen.analysis.ferroelectricity.polarization module](pymatgen.analysis.ferroelectricity.polarization.html)
+    * [Module contents](pymatgen.analysis.ferroelectricity.html#module-pymatgen.analysis.ferroelectricity)
+  * [pymatgen.analysis.gb package](pymatgen.analysis.gb.html)
+    * [Submodules](pymatgen.analysis.gb.html#submodules)
+      * [pymatgen.analysis.gb.grain module](pymatgen.analysis.gb.grain.html)
+    * [Module contents](pymatgen.analysis.gb.html#module-pymatgen.analysis.gb)
+  * [pymatgen.analysis.hhi package](pymatgen.analysis.hhi.html)
+    * [Subpackages](pymatgen.analysis.hhi.html#subpackages)
+    * [Submodules](pymatgen.analysis.hhi.html#submodules)
+      * [pymatgen.analysis.hhi.hhi module](pymatgen.analysis.hhi.hhi.html)
+    * [Module contents](pymatgen.analysis.hhi.html#module-pymatgen.analysis.hhi)
+  * [pymatgen.analysis.magnetism package](pymatgen.analysis.magnetism.html)
+    * [Submodules](pymatgen.analysis.magnetism.html#submodules)
+      * [pymatgen.analysis.magnetism.analyzer module](pymatgen.analysis.magnetism.analyzer.html)
+      * [pymatgen.analysis.magnetism.jahnteller module](pymatgen.analysis.magnetism.jahnteller.html)
+    * [Module contents](pymatgen.analysis.magnetism.html#module-pymatgen.analysis.magnetism)
+  * [pymatgen.analysis.structure_prediction package](pymatgen.analysis.structure_prediction.html)
+    * [Subpackages](pymatgen.analysis.structure_prediction.html#subpackages)
+    * [Submodules](pymatgen.analysis.structure_prediction.html#submodules)
+      * [pymatgen.analysis.structure_prediction.substitution_probability module](pymatgen.analysis.structure_prediction.substitution_probability.html)
+      * [pymatgen.analysis.structure_prediction.substitutor module](pymatgen.analysis.structure_prediction.substitutor.html)
+      * [pymatgen.analysis.structure_prediction.volume_predictor module](pymatgen.analysis.structure_prediction.volume_predictor.html)
+    * [Module contents](pymatgen.analysis.structure_prediction.html#module-pymatgen.analysis.structure_prediction)
+  * [pymatgen.analysis.xas package](pymatgen.analysis.xas.html)
+    * [Subpackages](pymatgen.analysis.xas.html#subpackages)
+    * [Submodules](pymatgen.analysis.xas.html#submodules)
+      * [pymatgen.analysis.xas.spectrum module](pymatgen.analysis.xas.spectrum.html)
+    * [Module contents](pymatgen.analysis.xas.html#module-pymatgen.analysis.xas)
+
+## Submodules¶
+
+  * [pymatgen.analysis.adsorption module](pymatgen.analysis.adsorption.html)
+  * [pymatgen.analysis.aflow_prototypes module](pymatgen.analysis.aflow_prototypes.html)
+  * [pymatgen.analysis.bond_dissociation module](pymatgen.analysis.bond_dissociation.html)
+  * [pymatgen.analysis.bond_valence module](pymatgen.analysis.bond_valence.html)
+  * [pymatgen.analysis.diffusion_analyzer module](pymatgen.analysis.diffusion_analyzer.html)
+  * [pymatgen.analysis.energy_models module](pymatgen.analysis.energy_models.html)
+  * [pymatgen.analysis.eos module](pymatgen.analysis.eos.html)
+  * [pymatgen.analysis.ewald module](pymatgen.analysis.ewald.html)
+  * [pymatgen.analysis.excitation module](pymatgen.analysis.excitation.html)
+  * [pymatgen.analysis.find_dimension module](pymatgen.analysis.find_dimension.html)
+  * [pymatgen.analysis.fragmenter module](pymatgen.analysis.fragmenter.html)
+  * [pymatgen.analysis.functional_groups module](pymatgen.analysis.functional_groups.html)
+  * [pymatgen.analysis.graphs module](pymatgen.analysis.graphs.html)
+  * [pymatgen.analysis.interface_reactions module](pymatgen.analysis.interface_reactions.html)
+  * [pymatgen.analysis.local_env module](pymatgen.analysis.local_env.html)
+  * [pymatgen.analysis.molecule_matcher module](pymatgen.analysis.molecule_matcher.html)
+  * [pymatgen.analysis.molecule_structure_comparator module](pymatgen.analysis.molecule_structure_comparator.html)
+  * [pymatgen.analysis.nmr module](pymatgen.analysis.nmr.html)
+  * [pymatgen.analysis.path_finder module](pymatgen.analysis.path_finder.html)
+  * [pymatgen.analysis.phase_diagram module](pymatgen.analysis.phase_diagram.html)
+  * [pymatgen.analysis.piezo module](pymatgen.analysis.piezo.html)
+  * [pymatgen.analysis.pourbaix_diagram module](pymatgen.analysis.pourbaix_diagram.html)
+  * [pymatgen.analysis.quasiharmonic module](pymatgen.analysis.quasiharmonic.html)
+  * [pymatgen.analysis.reaction_calculator module](pymatgen.analysis.reaction_calculator.html)
+  * [pymatgen.analysis.structure_analyzer module](pymatgen.analysis.structure_analyzer.html)
+  * [pymatgen.analysis.structure_matcher module](pymatgen.analysis.structure_matcher.html)
+  * [pymatgen.analysis.substrate_analyzer module](pymatgen.analysis.substrate_analyzer.html)
+  * [pymatgen.analysis.surface_analysis module](pymatgen.analysis.surface_analysis.html)
+  * [pymatgen.analysis.thermochemistry module](pymatgen.analysis.thermochemistry.html)
+  * [pymatgen.analysis.transition_state module](pymatgen.analysis.transition_state.html)
+  * [pymatgen.analysis.wulff module](pymatgen.analysis.wulff.html)
+
+## Module contents¶
+
+This package is an overarching package for modules performing various analyses
+of materials data.
+
+### [Table of Contents](index.html)
+
+  * pymatgen.analysis package
+    * Subpackages
+    * Submodules
+    * Module contents
+
+### This Page
+
+  * [Show Source](_sources/pymatgen.analysis.rst.txt)
+
+### Quick search
+
+### Navigation
+
+  * [index](genindex.html "General Index")
+  * [modules](py-modindex.html "Python Module Index") |
+  * [pymatgen 2018.10.18 documentation](index.html) »
+
+(C) Copyright 2011, Pymatgen Development Team. Created using
+[Sphinx](http://sphinx-doc.org/) 1.8.1.
+
+This page uses [ Google Analytics](http://analytics.google.com/) to collect
+statistics. You can disable it by blocking the JavaScript coming from
+www.google-analytics.com.
+
+

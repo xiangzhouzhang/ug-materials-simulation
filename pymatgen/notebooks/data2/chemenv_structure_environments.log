@@ -1,0 +1,54 @@
+INFO:coordination_geometry_finder:compute_structure_environments:Getting DetailedVoronoiContainer
+INFO:voronoi:__init__:Setting Voronoi list
+INFO:voronoi:setup_voronoi_list:Getting all neighbors in structure
+INFO:voronoi:setup_voronoi_list:Setting up Voronoi list :
+INFO:voronoi:setup_voronoi_list:  - Voronoi analysis for site #0 (1/9)
+INFO:voronoi:setup_voronoi_list:  - Voronoi analysis for site #1 (2/9)
+INFO:voronoi:setup_voronoi_list:  - Voronoi analysis for site #2 (3/9)
+INFO:voronoi:setup_voronoi_list:  - Voronoi analysis for site #3 (4/9)
+INFO:voronoi:setup_voronoi_list:  - Voronoi analysis for site #4 (5/9)
+INFO:voronoi:setup_voronoi_list:  - Voronoi analysis for site #5 (6/9)
+INFO:voronoi:setup_voronoi_list:  - Voronoi analysis for site #6 (7/9)
+INFO:voronoi:setup_voronoi_list:  - Voronoi analysis for site #7 (8/9)
+INFO:voronoi:setup_voronoi_list:  - Voronoi analysis for site #8 (9/9)
+INFO:voronoi:setup_voronoi_list:Voronoi list set up in 0.31 seconds
+INFO:voronoi:__init__:Setting neighbors distances and angles
+INFO:voronoi:__init__:Neighbors distances and angles set up in 0.00 seconds
+INFO:coordination_geometry_finder:compute_structure_environments:DetailedVoronoiContainer has been set up
+INFO:coordination_geometry_finder:compute_structure_environments: ... in site #0/9 (Si)
+DEBUG:coordination_geometry_finder:compute_structure_environments:    ... getting environments for nb_set (4, 0)
+DEBUG:coordination_geometry_finder:compute_structure_environments:    ... getting environments for nb_sets added from hints
+INFO:coordination_geometry_finder:compute_structure_environments:    ... computed in 0.03 seconds
+INFO:coordination_geometry_finder:compute_structure_environments: ... in site #1/9 (Si)
+DEBUG:coordination_geometry_finder:compute_structure_environments:    ... getting environments for nb_set (4, 0)
+DEBUG:coordination_geometry_finder:compute_structure_environments:    ... getting environments for nb_sets added from hints
+INFO:coordination_geometry_finder:compute_structure_environments:    ... computed in 0.01 seconds
+INFO:coordination_geometry_finder:compute_structure_environments: ... in site #2/9 (Si)
+DEBUG:coordination_geometry_finder:compute_structure_environments:    ... getting environments for nb_set (4, 0)
+DEBUG:coordination_geometry_finder:compute_structure_environments:    ... getting environments for nb_sets added from hints
+INFO:coordination_geometry_finder:compute_structure_environments:    ... computed in 0.01 seconds
+INFO:coordination_geometry_finder:compute_structure_environments: ... in site #3/9 (O)
+DEBUG:coordination_geometry_finder:compute_structure_environments:    ... getting environments for nb_set (2, 0)
+DEBUG:coordination_geometry_finder:compute_structure_environments:    ... getting environments for nb_sets added from hints
+INFO:coordination_geometry_finder:compute_structure_environments:    ... computed in 0.00 seconds
+INFO:coordination_geometry_finder:compute_structure_environments: ... in site #4/9 (O)
+DEBUG:coordination_geometry_finder:compute_structure_environments:    ... getting environments for nb_set (2, 0)
+DEBUG:coordination_geometry_finder:compute_structure_environments:    ... getting environments for nb_sets added from hints
+INFO:coordination_geometry_finder:compute_structure_environments:    ... computed in 0.00 seconds
+INFO:coordination_geometry_finder:compute_structure_environments: ... in site #5/9 (O)
+DEBUG:coordination_geometry_finder:compute_structure_environments:    ... getting environments for nb_set (2, 0)
+DEBUG:coordination_geometry_finder:compute_structure_environments:    ... getting environments for nb_sets added from hints
+INFO:coordination_geometry_finder:compute_structure_environments:    ... computed in 0.00 seconds
+INFO:coordination_geometry_finder:compute_structure_environments: ... in site #6/9 (O)
+DEBUG:coordination_geometry_finder:compute_structure_environments:    ... getting environments for nb_set (2, 0)
+DEBUG:coordination_geometry_finder:compute_structure_environments:    ... getting environments for nb_sets added from hints
+INFO:coordination_geometry_finder:compute_structure_environments:    ... computed in 0.00 seconds
+INFO:coordination_geometry_finder:compute_structure_environments: ... in site #7/9 (O)
+DEBUG:coordination_geometry_finder:compute_structure_environments:    ... getting environments for nb_set (2, 0)
+DEBUG:coordination_geometry_finder:compute_structure_environments:    ... getting environments for nb_sets added from hints
+INFO:coordination_geometry_finder:compute_structure_environments:    ... computed in 0.00 seconds
+INFO:coordination_geometry_finder:compute_structure_environments: ... in site #8/9 (O)
+DEBUG:coordination_geometry_finder:compute_structure_environments:    ... getting environments for nb_set (2, 0)
+DEBUG:coordination_geometry_finder:compute_structure_environments:    ... getting environments for nb_sets added from hints
+INFO:coordination_geometry_finder:compute_structure_environments:    ... computed in 0.00 seconds
+INFO:coordination_geometry_finder:compute_structure_environments:    ... compute_structure_environments ended in 0.41 seconds

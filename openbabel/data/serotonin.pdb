@@ -1,0 +1,53 @@
+COMPND    SEROTONIN
+COMPND   1Created by VESTA
+HETATM    1 H1                   6.903   1.526  -0.083  1.00  1.00           H
+HETATM    2 O1                   3.068   6.529   0.041  1.00  1.00           O
+HETATM    3 H2                  11.993   5.860   0.151  1.00  1.00           H
+HETATM    4 H3                  10.948   7.024  -0.466  1.00  1.00           H
+HETATM    5 N1                  11.056   6.287   0.238  1.00  1.00           N
+HETATM    6 C1                  10.054   5.259   0.037  1.00  1.00           C
+HETATM    7 C2                   8.608   5.819   0.117  1.00  1.00           C
+HETATM    8 N2                   6.926   2.548  -0.046  1.00  1.00           N
+HETATM    9 C3                   8.108   3.362   0.001  1.00  1.00           C
+HETATM   10 C4                   7.695   4.645   0.045  1.00  1.00           C
+HETATM   11 C5                   5.313   5.784   0.050  1.00  1.00           C
+HETATM   12 C6                   6.232   4.661   0.024  1.00  1.00           C
+HETATM   13 C7                   5.805   3.411  -0.030  1.00  1.00           C
+HETATM   14 C8                   4.407   3.067  -0.060  1.00  1.00           C
+HETATM   15 C9                   3.522   4.075  -0.038  1.00  1.00           C
+HETATM   16 C10                  3.997   5.504   0.020  1.00  1.00           C
+HETATM   17 H4                   3.542   7.409   0.080  1.00  1.00           H
+HETATM   18 H5                  10.190   4.849  -0.865  1.00  1.00           H
+HETATM   19 H6                  10.166   4.559   0.742  1.00  1.00           H
+HETATM   20 H7                   8.474   6.308   0.979  1.00  1.00           H
+HETATM   21 H8                   8.435   6.439  -0.649  1.00  1.00           H
+HETATM   22 H9                   9.055   3.040   0.001  1.00  1.00           H
+HETATM   23 H10                  5.644   6.727   0.089  1.00  1.00           H
+HETATM   24 H11                  4.107   2.114  -0.096  1.00  1.00           H
+HETATM   25 H12                  2.542   3.877  -0.060  1.00  1.00           H
+CONECT    1    8
+CONECT    2   16   17
+CONECT    3    5
+CONECT    4    5
+CONECT    5    3    4    6
+CONECT    6    5   19    7   18
+CONECT    7    6   20   10   21
+CONECT    8    1   13    9
+CONECT    9    8   22   10
+CONECT   10    7    9   12
+CONECT   11   23   16   12
+CONECT   12   10   11   13
+CONECT   13    8   12   14
+CONECT   14   13   24   15
+CONECT   15   14   25   16
+CONECT   16    2   11   15
+CONECT   17    2
+CONECT   18    6
+CONECT   19    6
+CONECT   20    7
+CONECT   21    7
+CONECT   22    9
+CONECT   23   11
+CONECT   24   14
+CONECT   25   15
+END
