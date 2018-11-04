@@ -1,3 +1,2 @@
 # UserGuide2
-python-subject-learn
-math, physics, chem
+python-material-work
