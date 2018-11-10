@@ -1,0 +1,7 @@
+name: <<WORKER_NAME>>
+category: ''
+query: '{}'
+env:
+    db_file: <<INSTALL_DIR>>/config/db.json
+    vasp_cmd: <<VASP_CMD>>
+    scratch_dir: null

@@ -1,0 +1,43 @@
+{
+    "spec": {
+        "_tasks": [
+            {
+                "script": [
+                    "echo \"howdy, your job launched successfully!\""
+                ],
+                "use_shell": true,
+                "_fw_name": "ScriptTask"
+            }
+        ]
+    },
+    "fw_id": 1,
+    "created_on": "2018-10-25T19:02:45.879333",
+    "updated_on": "2018-10-25T19:02:45.889343",
+    "launches": [
+        {
+            "fworker": {
+                "name": "Automatically generated Worker",
+                "category": "",
+                "query": "{}",
+                "env": {}
+            },
+            "fw_id": 1,
+            "launch_dir": "Y:\\Jupyter\\work\\fireworks",
+            "host": "iceBr",
+            "ip": "192.168.213.1",
+            "trackers": [],
+            "action": null,
+            "state": "RUNNING",
+            "state_history": [
+                {
+                    "state": "RUNNING",
+                    "created_on": "2018-10-25T19:02:45.888335",
+                    "updated_on": "2018-10-25T19:02:45.888335"
+                }
+            ],
+            "launch_id": 1
+        }
+    ],
+    "state": "RUNNING",
+    "name": "Unnamed FW"
+}
